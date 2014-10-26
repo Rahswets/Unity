@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\New Unity Project\Assets\Script\Player\PlayerControl.cs">
+    <Files>
+      <File FileName="..\..\New Unity Project\Assets\Script\Player\PlayerControl.cs" Line="22" Column="31" />
+      <File FileName="..\..\New Unity Project\Assets\Standard Assets\Joystick.js" Line="125" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
